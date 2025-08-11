@@ -1,0 +1,3 @@
+liste= [11, 22, 33, 44, 55]
+print(liste[4])
+print(liste[0])

@@ -5,5 +5,5 @@
 nbr=[12, 13, 14, 15, 16]
 somme=0
 for i in nbr:
-    somme+= i
+    somme+= i 
 print(f"afficher la somme : {somme} ")

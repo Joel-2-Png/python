@@ -1,4 +1,3 @@
-nombres = [10, 20, 30, 40, 50, 20]
-
-print("Premier élément :", nombres[1])
-print("Dernier élément :", nombres[5])
+nombres = [1, 4, 7, 3, 2, 6]
+plus_grand = max(nombres)
+print(f"Le plus grand nombre de la liste est {plus_grand}")

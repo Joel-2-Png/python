@@ -9,6 +9,3 @@ dict2 = {
  
 fusion = {**dict1, **dict2}
 print("Dictionnaire fusionné :", fusion)
-
-# dict1.update(dict2)
-# print("Dictionnaire fusionné (avec update) :", dict1)
